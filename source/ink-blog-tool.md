@@ -1,7 +1,7 @@
 title: 简洁的中文博客构建工具 —— 纸小墨（Ink）
 date: 2015-03-01 17:00:00
 update: 2015-04-09 10:00:00
-author: me
+author: gaocegege
 topic: -/images/example.jpg
 tags:
     - 产品
